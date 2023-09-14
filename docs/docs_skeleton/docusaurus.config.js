@@ -9,8 +9,8 @@ const projectName = "spam_classification";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Deep Learning",
-  tagline: "Notes for Class",
+  title: "Spam Classification",
+  tagline: "Project documentation built with Docusaurus",
   url: `https://${organizationName}.github.io`,
   baseUrl: `/${projectName}/`,
   onBrokenLinks: "throw",
