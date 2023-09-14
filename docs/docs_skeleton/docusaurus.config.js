@@ -60,7 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Education Impact Analysis",
+        title: "Spam Classification",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
